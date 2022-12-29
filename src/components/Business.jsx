@@ -1,9 +1,8 @@
-import React from 'react'
+import {features} from '../constants';
 
-const Business = () => {
-  return (
+
+const Business = () => (
     <div>Business</div>
-  )
-}
+  );
 
 export default Business
